@@ -7,3 +7,5 @@ elif x==5:
    print("X = 5") 
 else: 
     print("Nijedan od uvjeta nije ispravan!")
+
+# primjer grananja
